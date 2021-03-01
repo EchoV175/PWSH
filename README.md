@@ -1,1 +1,1 @@
-# PWSH simple scripts to add and remove locul user accounts. 
+# PWSH simple scripts to add and remove local user accounts. 
